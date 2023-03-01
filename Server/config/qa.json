@@ -1,8 +1,0 @@
-{
-	"environment": "qa",
-    "DB_STRING":"mongodb+srv://Reshab:Reshab@cluster0.aa1ij.mongodb.net?retryWrites=true&w=majority",
-    "DB_NAME":"intern-project-qa",
-    "SCHEDULER_ONE": false,
-    "SCHEDULER_TWO": false,
-    "ENV":"qa"
-}
